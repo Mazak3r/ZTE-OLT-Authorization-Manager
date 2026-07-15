@@ -1,0 +1,2 @@
+telnetlib3==4.0.5
+wcwidth==0.8.2
