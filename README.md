@@ -22,9 +22,9 @@ Automated network provisioning tool for ZTE GPON/EPON Optical Line Terminals (OL
 
 ## Installation
 
-```bash
+
 # Clone the repository
-git clone https://github.com/yourusername/ZTEOLT-Authorization-Manager.git
+git clone https://github.com/Mazak3r/ZTEOLT-Authorization-Manager.git
 cd ZTE-OLT-Authorization-Manager
 
 # Create virtual environment
@@ -142,7 +142,7 @@ License
 MIT License
 
 Author
-Muslim - https://github.com/Mazak3r
+https://github.com/Mazak3r
 
 
 
@@ -158,37 +158,9 @@ text
 
 ---
 
-## .gitignore
 
-```gitignore
-# Virtual environment
-venv/
-env/
-.venv/
 
-# Configuration files with sensitive data
-olt_config.py
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# Streamlit
-.streamlit/secrets.toml
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
 
 # Logs
 *.log
