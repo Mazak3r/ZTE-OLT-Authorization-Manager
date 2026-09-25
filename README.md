@@ -5,6 +5,7 @@ Automated network provisioning tool for ZTE GPON/EPON Optical Line Terminals (OL
 ## Features
 
 - **Multi-OLT Scanning**: Discover unconfigured ONUs across multiple OLTs simultaneously
+- 
 - **Intelligent ID Analysis**: Identify missing ONU IDs and recommend next available ID
 - **One-Click Authorization**: Push complete ONU configuration (VLAN, traffic profiles, DHCP, security)
 - **Real-Time Debug Output**: View every CLI command and response during provisioning
